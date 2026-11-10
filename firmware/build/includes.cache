@@ -1,0 +1,102 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "MCUFRIEND_kbv.h",
+    "Includepath": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\MCUFRIEND_kbv"
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\build\\sketch\\water_purifier_display.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\USER\\Documents\\Arduino\\libraries\\MCUFRIEND_kbv\\MCUFRIEND_kbv.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

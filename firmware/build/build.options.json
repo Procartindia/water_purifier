@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\USER\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "c:\\Users\\USER\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "c:\\Users\\USER\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\USER\\Downloads\\ks5615\\ks5615\\firmware\\water_purifier_display"
+}
